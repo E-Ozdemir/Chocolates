@@ -1,0 +1,17 @@
+.container{
+    max-width: 30%;
+    height: 8rem;
+    border-radius: 10px;
+    margin: 1rem;
+    padding: 1rem;
+    box-shadow: 10px 10px 8px white;
+    background-color: white;
+    font-size: small;
+   
+}
+.container:hover{
+    cursor: pointer;
+}
+span{
+    font-weight: bold;
+}
